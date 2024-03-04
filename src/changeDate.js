@@ -10,8 +10,7 @@ const checkDate = async () => {
   let db = readDb();
   let last = db.results[db.results.length - 1];
   if (last.date !== fechaActual) {
-    //const responseApi = await consultOpenai(fechaActual);
-    const responseApi = "responseApi";
+    const responseApi = await consultOpenai(fechaActual);
     writeDb(fechaActual, responseApi, db);
   } else return;
 };
