@@ -1,6 +1,7 @@
 import fs from "fs";
 import cron from "node-cron";
 import { consultOpenai } from "./openai.js";
+import { consultGemini } from "./gemini.js";
 
 const checkDate = async () => {
   const newDate = new Date();
@@ -10,7 +11,7 @@ const checkDate = async () => {
   let db = readDb();
   let last = db.results[db.results.length - 1];
   if (last.date !== fechaActual) {
-    const responseApi = await consultOpenai(fechaActual);
+    const responseApi = await consultGemini(fechaActual);
     writeDb(fechaActual, responseApi, db);
   } else return;
 };
