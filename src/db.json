@@ -1,1 +1,16 @@
-{"results":[{"date":"29/2","fact":"No hay un dato histórico importante registrado específicamente para el 29 de febrero, ya que es una fecha que solo se presenta cada cuatro años en los años bisiestos."},{"date":"4/3","fact":"El 4 de marzo de 1933, Franklin D. Roosevelt se convirtió en presidente de los Estados Unidos y pronunció su famoso discurso de toma de posesión en medio de la Gran Depresión, prometiendo un \"Nuevo Trato\" para el pueblo estadounidense. Este fue un momento crucial en la historia de Estados Unidos, ya que Roosevelt implementó una serie de políticas y programas para combatir la crisis económica y mejorar la vida de los ciudadanos."},{"date":"27/5","fact":" 27 de mayo: Día Internacional del Audiovisual \n\nEl 27 de mayo se celebra el Día Internacional del Audiovisual, establecido por la UNESCO en 2010 para promover el uso de las tecnologías audiovisuales para la educación, la cultura y el desarrollo. \n\nEste día busca concienciar sobre la importancia del cine, la televisión, el vídeo, la radio y otros medios audiovisuales para compartir ideas, conectar culturas y promover la paz. \n"}]}
+{
+  "results": [
+    {
+      "date": "29/2",
+      "fact": "No hay un dato histórico importante registrado específicamente para el 29 de febrero, ya que es una fecha que solo se presenta cada cuatro años en los años bisiestos."
+    },
+    {
+      "date": "4/3",
+      "fact": "El 4 de marzo de 1933, Franklin D. Roosevelt se convirtió en presidente de los Estados Unidos y pronunció su famoso discurso de toma de posesión en medio de la Gran Depresión, prometiendo un \"Nuevo Trato\" para el pueblo estadounidense. Este fue un momento crucial en la historia de Estados Unidos, ya que Roosevelt implementó una serie de políticas y programas para combatir la crisis económica y mejorar la vida de los ciudadanos."
+    },
+    {
+      "date": "27/5",
+      "fact": " 27 de mayo: Día Internacional del Audiovisual \n\nEl 27 de mayo se celebra el Día Internacional del Audiovisual, establecido por la UNESCO en 2010 para promover el uso de las tecnologías audiovisuales para la educación, la cultura y el desarrollo. \n\nEste día busca concienciar sobre la importancia del cine, la televisión, el vídeo, la radio y otros medios audiovisuales para compartir ideas, conectar culturas y promover la paz. \n"
+    }
+  ]
+}
