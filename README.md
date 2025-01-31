@@ -8,7 +8,7 @@ Esta api obtiene diariamente desde la api de [OpenIA](https://platform.openai.co
     
     Contame un hecho importante que paso un dia como hoy.
 
-Luego brinda la informacion mediante un endpoint privado a la aplicacion web de [Efemerides](https://efemeridedehoy.vercel.app/)
+Luego brinda la informacion mediante un endpoint privado a la aplicacion web de [Efemerides](https://efemeride.agonzalorena.com/)
 
 ## Objetivo
 
